@@ -1,0 +1,6 @@
+# Runtime cache written by the headroom skill (reversible-CCR originals)
+.headroom-cache/
+
+# Python bytecode from skill helper scripts
+__pycache__/
+*.pyc
